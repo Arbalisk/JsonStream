@@ -1,1 +1,14 @@
-﻿{[{"country":"JO","city":"","level":3,"line":[{"x":35.579118,"y":31.89062},{"x":35.580073,"y":31.890743},{"x":35.582203,"y":31.891089},{"x":35.58533,"y":31.89154},{"x":35.590304,"y":31.892292},{"x":35.593055,"y":31.892692},{"x":35.594398,"y":31.892987}],"speedKMH":29.24,"length":1469,"turnType":"NONE","type":"NONE","uuid":1098023200,"endNode":"South Shuna - الشونة الجنوبية","speed":8.122222222222222,"segments":[{},{}],"roadType":7,"delay":122,"startNode":"South Shuna - الشونة الجنوبية","street":"K. Hussien Bridge Rd.","pubMillis":1552641843603}]}
+﻿[
+  {
+    "id": 1,
+    "title": "Post 1"
+  },
+  {
+    "id": 2,
+    "title": "Post 2"
+  },
+  {
+    "id": 3,
+    "title": "Post 3"
+  }
+]
